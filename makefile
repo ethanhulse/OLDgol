@@ -1,4 +1,4 @@
-#MAKEFILE FOR PROJECT 'zGameOfLife'
+#MAKEFILE FOR PROJECT 'gol'
 PROG = live
 CC = g++
 INC = -Iinc
